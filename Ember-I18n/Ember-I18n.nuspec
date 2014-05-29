@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Ember.I18n</id>
+        <version>1.6.3</version>
+        <authors>cvrajeesh</authors>
+        <projectUrl>https://github.com/jamesarosen/ember-i18n</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Internationalization for Ember</description>
+        <releaseNotes />
+    </metadata>
+    <files>
+        <file src="Content\i18n.js" target="content\net\Scripts\i18n.js" />
+        <file src="Content\i18n.js" target="content\netcore45\Scripts\i18n.js" />
+        <file src="Content\i18n.js" target="content\netcore451\Scripts\i18n.js" />
+    </files>
+</package>
